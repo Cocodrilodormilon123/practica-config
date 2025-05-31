@@ -1,0 +1,6 @@
+db:
+  url: jdbc:postgresql://localhost:5434/ofertas_db
+  username: ofertas
+  password: Of3rt4sM1cr0s3rv1c3
+  maximum-pool-size: 5
+  connection-timeout: 20000
