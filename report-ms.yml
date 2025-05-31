@@ -1,0 +1,3 @@
+report:
+  template: "El equipo {equipo}, en el área {area}, obtuvo {puntaje} puntos."
+
