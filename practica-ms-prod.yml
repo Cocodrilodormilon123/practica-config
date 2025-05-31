@@ -1,0 +1,7 @@
+db:
+  url: jdbc:postgresql://practicas-prod-host:5432/practicas_db
+  username: practicas-prod
+  password: Pr4ct1c4sPr0d2025
+  maximum-pool-size: 5
+  connection-timeout: 20000
+  driverClassName: org.postgresql.Driver

@@ -1,0 +1,6 @@
+db:
+  url: jdbc:postgresql://localhost:5435/practicas_db
+  username: practicas
+  password: Pr4ct1c4sM1cr0s3rv1c3
+  maximum-pool-size: 5
+  connection-timeout: 20000
