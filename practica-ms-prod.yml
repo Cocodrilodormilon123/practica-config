@@ -1,4 +1,4 @@
-db:
+pr:
   url: jdbc:postgresql://practicas-prod-host:5432/practicas_db
   username: practicas-prod
   password: Pr4ct1c4sPr0d2025

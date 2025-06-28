@@ -1,4 +1,4 @@
-db:
+of:
   url: jdbc:postgresql://ofertas-prod-host:5432/ofertas_db
   username: ofertas-prod
   password: Of3rt4sPr0d2025

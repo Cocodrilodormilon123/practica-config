@@ -1,2 +1,0 @@
-report:
-  template: "El/la estudiante {nombre} {apellido}, de la Escuela Profesional de {ep}, finalizó su práctica en estado: {estado}."

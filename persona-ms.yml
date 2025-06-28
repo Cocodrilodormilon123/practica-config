@@ -1,4 +1,4 @@
-db:
+pe:
   url: jdbc:postgresql://localhost:5433/personas_db
   username: personas
   password: P3rs0n4sM1cr0s3rv1c3
