@@ -1,5 +1,5 @@
 of:
-  url: jdbc:postgresql://ofertas-prod-host:5432/ofertas_db
+  url: jdbc:postgresql://ofertas-prod-host:5434/ofertas_db
   username: ofertas-prod
   password: Of3rt4sPr0d2025
   maximum-pool-size: 5
