@@ -1,5 +1,5 @@
 pe:
-  url: jdbc:postgresql://postgres-personas:5433/personas_db
+  url: jdbc:postgresql://db-personas:5433/personas_db
   username: personas
   password: P3rs0n4sM1cr0s3rv1c3
   maximum-pool-size: 5
