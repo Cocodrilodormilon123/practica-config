@@ -1,3 +1,16 @@
+spring:
+  datasource:
+    url: jdbc:mysql://db-auth-mysql:3306/auth_db
+    username: authuser
+    password: AuthJWT2025
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    
 application:
   jwt:
     secret: S3cur1tyM1cr0S3rv1c3S3cur1tyM1cr0S3rv1c3
